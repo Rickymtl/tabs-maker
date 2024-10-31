@@ -1,0 +1,6 @@
+setuptools~=75.2.0
+matplotlib~=3.9.2
+numpy~=2.0.2
+librosa~=0.10.2.post1
+madmom~=0.16.1
+pydub~=0.25.1
